@@ -1,1 +1,1 @@
-# -KIT-bachelor-thesis-mario-game
+# KIT-bachelor-thesis-game
