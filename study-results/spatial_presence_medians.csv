@@ -1,0 +1,17 @@
+id_participant,haptic_treatment_order,treatment,spatial_presence_median
+1,hf,h,2.0
+2,vf,h,0.0
+3,hf,h,1.0
+4,vf,h,1.0
+5,hf,h,2.0
+6,vf,h,0.0
+7,hf,h,-1.0
+8,vf,h,-1.0
+1,hf,v,2.0
+2,vf,v,-1.0
+3,hf,v,1.0
+4,vf,v,0.0
+5,hf,v,1.0
+6,vf,v,1.0
+7,hf,v,0.0
+8,vf,v,1.0

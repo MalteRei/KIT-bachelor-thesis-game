@@ -1,0 +1,17 @@
+id_participant,haptic_treatment_order,treatment,spatial_presence_median,aligned(spatial_presence_median) for haptic_treatment_order,aligned(spatial_presence_median) for treatment,aligned(spatial_presence_median) for haptic_treatment_order*treatment,ART(spatial_presence_median) for haptic_treatment_order,ART(spatial_presence_median) for treatment,ART(spatial_presence_median) for haptic_treatment_order*treatment
+1,hf,h,4.0,1.4375,0.9375,1.0625,15,14,15.5
+2,vf,h,2.0,-0.4375,-0.0625,-0.0625,6.5,7,7.5
+3,hf,h,3.0,0.4375,-0.0625,0.0625,11,7,10
+4,vf,h,3.0,0.5625,0.9375,0.9375,13,14,13.5
+5,hf,h,4.0,1.4375,0.9375,1.0625,15,14,15.5
+6,vf,h,2.0,-0.4375,-0.0625,-0.0625,6.5,7,7.5
+7,hf,h,1.0,-1.5625,-2.0625,-1.9375,2,1,1
+8,vf,h,1.0,-1.4375,-1.0625,-1.0625,3,3,3.5
+1,hf,v,4.0,1.4375,1.0625,0.9375,15,16,13.5
+2,vf,v,1.0,-1.6875,-1.1875,-1.1875,1,2,2
+3,hf,v,3.0,0.4375,0.0625,-0.0625,11,9.5,7.5
+4,vf,v,2.0,-0.6875,-0.1875,-0.1875,4,5,5
+5,hf,v,3.0,0.4375,0.0625,-0.0625,11,9.5,7.5
+6,vf,v,3.0,0.3125,0.8125,0.8125,8.5,11.5,11.5
+7,hf,v,2.0,-0.5625,-0.9375,-1.0625,5,4,3.5
+8,vf,v,3.0,0.3125,0.8125,0.8125,8.5,11.5,11.5
